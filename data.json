@@ -12,16 +12,16 @@
     "title": "Anular e refazer",
     "text": "Permite anular a última ação realizada ou refazer uma ação que tenha sido anulada, tal como noutros editores do Google.",
     "linkText": "Vídeo",
-    "linkUrl": "",
-    "videoEmbed": "https://www.youtube.com/embed/EtS1CZEn1tE",
+    "linkUrl": "https://www.youtube.com/embed/EtS1CZEn1tE",
+    "videoEmbed": "",
     "pos": { "left": 61.37, "top": 10.9 }
   },
   "3": {
     "title": "Pré-visualizar",
     "text": "Permite visualizar o aspeto final do site antes da publicação, simulando a forma como será visto pelos visitantes.",
     "linkText": "Vídeo",
-    "linkUrl": "",
-    "videoEmbed": "https://www.youtube.com/embed/TOgISrbjg9k",
+    "linkUrl": "https://www.youtube.com/embed/TOgISrbjg9k",
+    "videoEmbed": "",
     "pos": { "left": 66.94, "top": 10.99 }
   },
   "4": {
