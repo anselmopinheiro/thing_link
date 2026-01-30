@@ -2,9 +2,9 @@
   "1": {
     "title": "Nome do site",
     "text": "Nome do site",
-    "linkText": "",
-    "linkUrl": "",
-    "videoEmbed": "https://www.youtube.com/watch?v=nLxnwISs2vU",
+    "linkText": "Vídeo",
+    "linkUrl": "https://www.youtube.com/watch?v=nLxnwISs2vU",
+    "videoEmbed": "",
     "pos": {
       "left": 5.28,
       "top": 13.96
