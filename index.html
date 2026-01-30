@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Imagem interativa — Google Sites</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <section class="stage" id="stage" aria-label="Imagem interativa">
+      <img src="img/google-sites-editor.png" alt="Editor do Google Sites com pontos numerados" />
+      <!-- Hotspots são inseridos via JS a partir do data.json -->
+    </section>
+
+    <p class="hint">Clica nos pontos para ver informação. Esc fecha.</p>
+  </main>
+
+  <div class="modalOverlay" id="overlay" role="dialog" aria-modal="true" aria-label="Informação">
+    <div class="modal" role="document">
+      <header class="modalHeader">
+        <h2 id="mTitle"></h2>
+        <button class="closeBtn" id="close" aria-label="Fechar">×</button>
+      </header>
+
+      <div class="modalBody">
+        <p id="mText"></p>
+        <div class="actions" id="mActions"></div>
+        <div id="mVideo"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
