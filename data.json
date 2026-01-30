@@ -1,134 +1,100 @@
-{
+
+ {
   "1": {
     "title": "Nome do site",
-    "text": "Nome do site",
+    "text": "Mostra o nome do site que estamos a criar. Este nome identifica o projeto e pode ser alterado a qualquer momento.",
     "linkText": "Vídeo",
     "linkUrl": "https://www.youtube.com/watch?v=nLxnwISs2vU",
     "videoEmbed": "",
-    "pos": {
-      "left": 5.28,
-      "top": 13.96
-    }
+    "pos": { "left": 5.28, "top": 13.96 }
   },
   "2": {
-    "title": "Anular refazer",
-    "text": "Anular refazer",
+    "title": "Anular e refazer",
+    "text": "Permite anular a última ação realizada ou refazer uma ação que tenha sido anulada, tal como noutros editores do Google.",
     "linkText": "Vídeo",
     "linkUrl": "",
-    "videoEmbed": "https://www.youtube.com/watch?v=EtS1CZEn1tE",
-    "pos": {
-      "left": 61.37,
-      "top": 10.9
-    }
+    "videoEmbed": "https://www.youtube.com/embed/EtS1CZEn1tE",
+    "pos": { "left": 61.37, "top": 10.9 }
   },
   "3": {
     "title": "Pré-visualizar",
-    "text": "Pré-visualizar",
+    "text": "Permite visualizar o aspeto final do site antes da publicação, simulando a forma como será visto pelos visitantes.",
     "linkText": "Vídeo",
     "linkUrl": "",
-    "videoEmbed": "https://youtu.be/TOgISrbjg9k",
-    "pos": {
-      "left": 66.94,
-      "top": 10.99
-    }
+    "videoEmbed": "https://www.youtube.com/embed/TOgISrbjg9k",
+    "pos": { "left": 66.94, "top": 10.99 }
   },
   "4": {
-    "title": "Link",
-    "text": "Link",
+    "title": "Link do site",
+    "text": "Gera o endereço (URL) do site, permitindo copiá-lo para partilhar ou aceder rapidamente ao projeto.",
     "linkText": "Vídeo",
     "linkUrl": "https://youtu.be/iv4Y2-M9d70",
     "videoEmbed": "",
-    "pos": {
-      "left": 71.1,
-      "top": 11.08
-    }
+    "pos": { "left": 71.1, "top": 11.08 }
   },
   "5": {
     "title": "Adicionar pessoas",
-    "text": "Permite adicionar colaboradores ao nosso site. Dessa forma, podemos construir o site de forma colaborativa.",
+    "text": "Permite adicionar colaboradores ao site e definir permissões de edição, possibilitando o trabalho colaborativo.",
     "linkText": "Vídeo",
     "linkUrl": "https://youtu.be/z6UTgZn_xZE",
     "videoEmbed": "",
-    "pos": {
-      "left": 75.05,
-      "top": 10.99
-    }
+    "pos": { "left": 75.05, "top": 10.99 }
   },
   "6": {
     "title": "Definições",
-    "text": "Definições",
+    "text": "Acede às definições gerais do site, como opções de navegação, domínio, idioma e outras configurações.",
     "linkText": "Vídeo",
     "linkUrl": "https://youtu.be/qo-K0i7ySaI",
     "videoEmbed": "",
-    "pos": {
-      "left": 79.32,
-      "top": 11.28
-    }
+    "pos": { "left": 79.32, "top": 11.28 }
   },
   "7": {
     "title": "Mais opções",
-    "text": "Mais opções",
+    "text": "Apresenta opções adicionais relacionadas com a gestão do site, como duplicar, gerir versões ou aceder a definições avançadas.",
     "linkText": "Vídeo",
     "linkUrl": "https://youtu.be/3p5gu-n16Kw",
     "videoEmbed": "",
-    "pos": {
-      "left": 83.54,
-      "top": 11.65
-    }
+    "pos": { "left": 83.54, "top": 11.65 }
   },
   "8": {
     "title": "Publicar site",
-    "text": "Guardar as alterações tornando-as visíveis aos visitantes do nosso site.",
+    "text": "Publica o site, tornando visíveis para os visitantes todas as alterações realizadas desde a última publicação.",
     "linkText": "Vídeo",
     "linkUrl": "https://youtu.be/R9t37ZvaZxQ",
     "videoEmbed": "",
-    "pos": {
-      "left": 89.52,
-      "top": 11.92
-    }
+    "pos": { "left": 89.52, "top": 11.92 }
   },
   "9": {
-    "title": "Secção cabeçalho",
-    "text": "Secção cabeçalho",
+    "title": "Secção de cabeçalho",
+    "text": "Área superior da página onde normalmente se encontram o título, a imagem principal e o menu de navegação.",
     "linkText": "Vídeo",
     "linkUrl": "https://youtu.be/nfg_bISXGHA",
     "videoEmbed": "",
-    "pos": {
-      "left": 5.03,
-      "top": 23.98
-    }
+    "pos": { "left": 5.03, "top": 23.98 }
   },
   "10": {
-    "title": "ecção principal",
-    "text": "Área com o conteúdo das nossas páginas",
+    "title": "Secção principal",
+    "text": "Área central da página onde é inserido o conteúdo principal, como texto, imagens, vídeos e outros elementos.",
     "linkText": "Vídeo",
     "linkUrl": "https://youtu.be/b9g1buY73Xg",
     "videoEmbed": "",
-    "pos": {
-      "left": 5.41,
-      "top": 43.45
-    }
+    "pos": { "left": 5.41, "top": 43.45 }
   },
   "11": {
-    "title": "Barra de menu",
-    "text": "Barra de menu",
+    "title": "Barra de menus",
+    "text": "Permite alternar entre os separadores Inserir, Páginas e Temas, facilitando a construção e organização do site.",
     "linkText": "Vídeo",
     "linkUrl": "https://youtu.be/3d8-EGnF78g",
     "videoEmbed": "",
-    "pos": {
-      "left": 80.36,
-      "top": 23.33
-    }
+    "pos": { "left": 80.36, "top": 23.33 }
   },
   "12": {
-    "title": "Menu construção",
-    "text": "Aqui encontras todos os objetos necessários para adicionar conteúdo às tuas páginas, por ex.: texto, imagens, vídeos. etc.",
+    "title": "Menu de construção",
+    "text": "Contém todas as ferramentas necessárias para adicionar conteúdo às páginas, como caixas de texto, imagens, vídeos e incorporações.",
     "linkText": "Vídeo",
     "linkUrl": "https://youtu.be/nF15fekc1_4",
     "videoEmbed": "",
-    "pos": {
-      "left": 80.73,
-      "top": 40.03
-    }
+    "pos": { "left": 80.73, "top": 40.03 }
   }
 }
+
