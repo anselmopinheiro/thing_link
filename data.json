@@ -1,10 +1,10 @@
 {
   "1": {
-    "title": "Ponto 1",
-    "text": "Escrever aqui a explicação do elemento assinalado.",
+    "title": "Nome do site",
+    "text": "Nome do site",
     "linkText": "",
     "linkUrl": "",
-    "videoEmbed": "",
+    "videoEmbed": "https://www.youtube.com/watch?v=nLxnwISs2vU",
     "pos": {
       "left": 5.28,
       "top": 13.96
